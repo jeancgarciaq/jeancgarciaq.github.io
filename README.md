@@ -1,6 +1,4 @@
-# jeancgarciaq.github.io
-
-## *Soy Analista de Datos con Python.*
+# *Soy Analista de Datos con Python.*
 
 ### **Manipulación y limpieza de datos**
 Extraigo datos de diferentes fuentes y los transformo en un formato consistente y utilizable. Realizo operaciones de limpieza, eliminando datos duplicados, corrigiendo errores y realizando combinaciones de datos para obtener un conjunto de datos consistente y confiable.
