@@ -42,6 +42,7 @@ Desarrollo sistemas web robustos con **PHP 8+ y Laravel** para automatizar proce
 - Estándares y Buenas Prácticas para API REST con Laravel
 - Curso de PHP Avanzado + Programación Orientada a Objetos
 - Curso de Symfony (conocimientos transferibles a Laravel)
+- Ver perfil [Platzi](https://platzi.com/p/jeansiervodedios/)
 
 </details>
 
