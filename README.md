@@ -13,7 +13,12 @@ Desarrollo sistemas web robustos con **PHP 8+ y Laravel** para automatizar proce
 |----------|-------|------|--------|
 | **🏢 Sistema Condominio** | Laravel, MySQL, Livewire | [▶️ Ver video](#) | [🔗 Repo](https://github.com/jeancgarciaq/condominio) |
 | **💰 API RESTful PHP** | PHP 8, JWT, PostgreSQL | [📚 Docs](#) | [🔗 Repo](#) |
-| **📊 Control de Gastos** | Laravel MVC, Bootstrap | [▶️ Ver video](#) | [🔗 Repo](#) |
+| **📊 Control de Gastos** | Laravel MVC, Bootstrap | [▶️ Ver video](#) | [🔗 Repo](https://github.com/jeancgarciaq/control-gastos-php) |
+| **📕 Extractor de PDF** | Python, FastAPI | [▶️ Ver video](#) | [🔗 Repo](https://github.com/jeancgarciaq/extractor-api-python) |
+| **🧮 Sistema Estadistico** | FastAPI, Python, JavaScript | [▶️ Ver video](#) | [🔗 Repo](https://github.com/jeancgarciaq/estadistica-maranatha-infantil-fastapi) |
+| **🧮 Sistema Estadistico** | Kivy, Python | [▶️ Ver video](#) | [🔗 Repo](https://github.com/jeancgarciaq/New-Estadistica-Maranatha-Infantil-Kivy) |
+
+
 
 > 💡 *Todos los proyectos incluyen video-demo, documentación de instalación y arquitectura en el README.*
 
